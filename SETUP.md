@@ -16,14 +16,7 @@ Before you begin, make sure you have:
 
 ## 📦 Step 1: Get the Code
 
-Download all FriendSpaces files:
-- `index.html`
-- `script.js`
-- `styles.css`
-- `firebase.json`
-- `service-worker.js`
-
-Place them all in a folder named `FriendSpaces`.
+Download the latest release and place them in a directory for use with Github Pages or Firebase Hosting.
 
 ---
 

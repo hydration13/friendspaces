@@ -9,6 +9,7 @@ Complete guide to building and deploying your own FriendSpace (v1.1).
 Before you begin, make sure you have:
 - A Google account (for Firebase)
 - A github account (for hosting)
+- A text editor (VSC, textedit, etc)
 
 ---
 
@@ -205,7 +206,7 @@ service cloud.firestore {
 ### 5.1 Add Firebase Config
 
 1. Open `script.js` in your text editor
-2. Find lines 3-10 (the Firebase config section)
+2. In the first few lines, you'll see the example API key to replace.
 3. Replace with YOUR config from Step 2.2:
 
 ```javascript

@@ -17,7 +17,7 @@ This guide is written for **non-nerds** - if you can use Google Docs, you can do
 
 ## 📦 Step 1: Download FriendSpaces
 
-1. Go to the [FriendSpaces GitHub Releases](https://github.com/YOUR_USERNAME/friendspaces/releases)
+1. Go to the [FriendSpaces GitHub Releases](https://github.com/hydration13/friendspaces/releases)
 2. Click on the latest release
 3. Download the `.zip` file
 4. **Unzip it** to a folder on your computer

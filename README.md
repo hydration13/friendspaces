@@ -93,10 +93,10 @@ FriendSpaces is a real-time group chat platform for small groups (2-50 people) w
 ### 🎨 Customization
 
 **Space Setup:**
-- Custom name and emoji icon (from 100+ options)
+- Custom name and emoji icon (from 10+ options for the built in picker)
 - Login screen displays your space's emoji
 - Background and text color themes
-- Public or private (with 10-character join code)
+- Public or private (with 10-character join code for private)
 
 **Table Permissions:**
 - Control who can **view** each table
@@ -254,7 +254,7 @@ FriendSpaces Alpha is the **first complete release** of the platform. All core f
 - ✅ Table permissions and organization
 - ✅ Mobile responsive design
 - ✅ Persistent avatar colors
-- ✅ 1000+ emoji selection
+- ✅ around 50+ emoji selection
 
 The "Alpha" designation indicates this is version 1.0 - stable, feature-complete, and ready for real use!
 
@@ -325,8 +325,8 @@ The "Alpha" designation indicates this is version 1.0 - stable, feature-complete
 - Custom themes (background & text colors applied to all chat elements)
 - Public/private spaces with 10-character join codes
 - Image URL auto-preview (supports .jpg, .png, .gif, .webp, .bmp)
-- 1000+ emoji picker for chat
-- 100+ emoji selection for space setup
+- 50+ emoji picker for chat
+- 10+ emoji selection for space setup
 - Persistent avatar colors (8-color palette, auto-assigned & stored)
 - Login screen shows space's custom emoji
 - Mobile responsive design (iPhone optimized)
